@@ -4,22 +4,21 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: XuanZhao
-last_name: Li
+last_name: Li(李轩照)
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  xzli@genetics.ac.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am currently a Ph.D. student at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, since Fall 2023. My research focuses on wheat genomics and the patterns of gene expression changes during distant hybridization. Prior to starting my Ph.D., I participated in several large-scale genomics projects as both a lead contributor and team member, including the rice pan-genome project and the locust genome project. I expect to graduate in 2027 and am currently seeking suitable career opportunities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐶 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
+url: xuanzhaoli.github.io/ # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
