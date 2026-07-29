@@ -40,6 +40,6 @@ Peng Qin#†, Hongwei Lu#, Huilong Du#, Hao Wang#, Weilan Chen#, Zhuo Chen#, Qia
 
 Honors & Awards
 ======
-Jul. 2026 — Merit Student, University of Chinese Academy of Sciences
-May 2025 — Second Prize for Outstanding Oral Presentation, The 3rd Wheat Molecular Breeding Conference
-May 2025 — Outstanding Poster Award, The 3rd Wheat Molecular Breeding Conference
+Jul. 2026 — Merit Student, University of Chinese Academy of Sciences<br>
+May 2025 — Second Prize for Outstanding Oral Presentation, The 3rd Wheat Molecular Breeding Conference<br>
+May 2025 — Outstanding Poster Award, The 3rd Wheat Molecular Breeding Conference<br>

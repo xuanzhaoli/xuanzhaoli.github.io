@@ -23,11 +23,11 @@ Wanying Li# , <b class="me">Xuanzhao Li#</b>, Wei Li, Haibo Yang, Diandian Guo, 
 ***Science China Life Sciences*** 2025<br>
 
 A chromosome-level genome assembly of the Walking goby (*Scartelaos histophorus*)<br>
-Xuanzhao Li#, Jiwei Qi#， Joel B. Corush, Jiajie Chen, Jie Zhang†<br>
+<b class="me">Xuanzhao Li#</b>, Jiwei Qi#, Joel B. Corush, Jiajie Chen, Jie Zhang†<br>
 ***Frontiers in Marine Science*** 2022<br>
 
 The complete paternally inherited mitochondrial genomes of three clam species in genus *Macridiscus* (Bivalvia: Veneridae): A TDRL model of dimer-mitogenome rearrangement of doubly uniparental inheritance<br>
-Rui Wang#, Xuanzhao Li#, Jiwei Qi†<br>
+Rui Wang#, <b class="me">Xuanzhao Li#</b>, Jiwei Qi†<br>
 ***Frontiers in Marine Science*** 2022<br>
 
 Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations<br>
@@ -36,4 +36,4 @@ Peng Qin#†, Hongwei Lu#, Huilong Du#, Hao Wang#, Weilan Chen#, Zhuo Chen#, Qia
 
 Research Interests
 ======
-Distant hybridization is an important strategy for overcoming the limitations of intraspecific genetic diversity and facilitating the transfer of valuable genetic resources across species boundaries. It also serves as an important system for crop genetic improvement and the study of genome evolution. The introgression of alien chromosomal segments not only confers desirable agronomic traits on crops but also reshapes the recipient genome at multiple levels, including genome organization, gene expression, and regulatory networks. During my Ph.D., my research has focused on wheat–Thinopyrum ponticum introgression lines. By integrating population genomics, transcriptomics, and bioinformatics approaches, I investigate the patterns of introgression, retention, and stable inheritance of alien chromosomal segments in the wheat genome, elucidate the effects of alien genetic variation on host gene expression networks and regulatory mechanisms, and uncover the molecular basis underlying the coordinated evolution of alien genetic material and the host genome during distant hybridization.<br>
+Distant hybridization is an important strategy for overcoming the limitations of intraspecific genetic diversity and facilitating the transfer of valuable genetic resources across species boundaries. It also serves as an important system for crop genetic improvement and the study of genome evolution. The introgression of alien chromosomal segments not only confers desirable agronomic traits on crops but also reshapes the recipient genome at multiple levels, including genome organization, gene expression, and regulatory networks. During my Ph.D., my research has focused on wheat–*Thinopyrum ponticum* introgression lines. By integrating population genomics, transcriptomics, and bioinformatics approaches, I investigate the patterns of introgression, retention, and stable inheritance of alien chromosomal segments in the wheat genome, elucidate the effects of alien genetic variation on host gene expression networks and regulatory mechanisms, and uncover the molecular basis underlying the coordinated evolution of alien genetic material and the host genome during distant hybridization.<br>
