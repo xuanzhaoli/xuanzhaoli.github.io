@@ -22,6 +22,11 @@ Transposable Element–Driven *PIEZO* Mutation Enhances Locust Flight in Plateau
 ***Advanced Science*** 2026<br>
 [PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC13383693/pdf/ADVS-9999-e76705.pdf) [CODE](https://github.com/xuanzhaoli/Locust_Genome_Project)<br>
 
+The homoeolog-resolved assembly of the 40-Gb decaploid Thinopyrum ponticum genome reveals extensive homoeologous exchange and recombination, segmental allopolyploid organization, and allelic variations for wheat improvement<br>
+Pingchuan Deng#, Jingzhong Xie#, <b class="me">Xuanzhao Li#†</b>, Xiangqian Chen#, He Dai, Zhengbao Xia, Jingli Fan, Yanzhen Wang, Tingdong Li, Qiaoling Luo, Chunhuan Chen, Jixin Zhao, Changyou Wang, Xinlun Liu, Xue Shi, Liang Wu, Xiaojun Nie, Qi Zheng, Zhensheng Li, Eduard Akhunov, Fei He†, Wanquan Ji†<br>
+***Molecular Plant*** 2026<br>
+[PDF](https://www.cell.com/action/showPdf?pii=S1674-2052%2826%2900314-X)
+
 A haplotype-resolved genome assembly of tetraploid Medicago *sativa* ssp. *falcata*<br>
 Wanying Li# , <b class="me">Xuanzhao Li#</b>, Wei Li, Haibo Yang, Diandian Guo, Ting Guo, Yingying Meng, Qiang He, Hao Lin, Huilong Du†, Lifang Niu†<br>
 ***Science China Life Sciences*** 2025<br>
